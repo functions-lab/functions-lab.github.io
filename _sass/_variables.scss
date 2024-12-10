@@ -11,9 +11,6 @@ $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
 $blue-color: #0076df !default;
 $blue-color-dark: #00369f !default;
-$duke-blue-color: #003087 !default;
-$duke-blue-royal-color: #00539B !default;
-$duke-blue-navy-color: #012169 !default;
 $cyan-color: #2698ba !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
@@ -37,7 +34,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($duke-blue-color, 0.05);
+$code-bg-color-light: rgba($pink-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
