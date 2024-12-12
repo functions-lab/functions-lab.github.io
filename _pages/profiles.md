@@ -12,7 +12,7 @@ nav_order: 1
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
         <figure class="text-center">
-            {% include figure.liquid loading="eager" path="assets/img/TingjunChen_Square.jpg" title="Tingjun Chen" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/TingjunChen.jpg" title="Tingjun Chen" class="img-fluid rounded z-depth-1" %}
             <figcaption><strong><a href="https://functions-lab.github.io/">Tingjun Chen</a>, Ph.D.</strong><br>Assistant Professor of ECE &amp; CS</figcaption>
         </figure>
     </div>

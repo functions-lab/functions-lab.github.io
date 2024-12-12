@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Tingjunchen_Square.jpg
+  image: TingjunChen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <strong>Tingjun Chen</strong>, Ph.D.<br>
