@@ -35,31 +35,31 @@ nav_order: 1
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
         <figure class="text-center">
-            {% include figure.liquid loading="eager" path="assets/img/WeiCheng.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/WeiCheng.jpg" title="Wei Cheng" class="img-fluid rounded z-depth-1" %}
             <figcaption><strong>Wei Cheng</strong><br>(co-advised with Prof. Yiran Chen)</figcaption>
         </figure>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <figure class="text-center">
-            {% include figure.liquid loading="eager" path="assets/img/ZhihuiGao.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ZhihuiGao.jpg" title="Zhihui Gao" class="img-fluid rounded z-depth-1" %}
             <figcaption><strong>Zhihui Gao</strong><br>(co-advised with Prof. Yiran Chen)</figcaption>
         </figure>
     </div>
     <div class="col-sm mt-4 mt-md-0">
         <figure class="text-center">
-            {% include figure.liquid loading="eager" path="assets/img/YimingLi.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/YimingLi.jpg" title="Yiming Li" class="img-fluid rounded z-depth-1" %}
             <figcaption><strong>Yiming Li</strong></figcaption>
         </figure>
     </div>
     <div class="col-sm mt-4 mt-md-0">
         <figure class="text-center">
-            {% include figure.liquid loading="eager" path="assets/img/ToBeAdded.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ToBeAdded.jpg" title="Zhecun Liu" class="img-fluid rounded z-depth-1" %}
             <figcaption><strong>Zhecun Liu</strong></figcaption>
         </figure>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <figure class="text-center">
-            {% include figure.liquid loading="eager" path="assets/img/ZhenzhouQi.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ZhenzhouQi.jpg" title="Zhenzhou Qi" class="img-fluid rounded z-depth-1" %}
             <figcaption><strong>Zhenzhou Qi</strong></figcaption>
         </figure>
     </div>
@@ -68,13 +68,13 @@ nav_order: 1
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
         <figure class="text-center">
-            {% include figure.liquid loading="eager" path="assets/img/ChunghsuanTung.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ChunghsuanTung.jpg" title="Chung-Hsuan Tung" class="img-fluid rounded z-depth-1" %}
             <figcaption><strong>Chung-Hsuan Tung</strong></figcaption>
         </figure>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <figure class="text-center">
-            {% include figure.liquid loading="eager" path="assets/img/ZehaoWang.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+            {% include figure.liquid loading="eager" path="assets/img/ZehaoWang.jpg" title="Zehao Wang" class="img-fluid rounded z-depth-1" %}
             <figcaption><strong>Zehao Wang</strong></figcaption>
         </figure>
     </div>
