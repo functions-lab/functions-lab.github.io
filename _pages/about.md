@@ -9,21 +9,25 @@ profile:
   image: TingjunChen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <strong>Tingjun Chen</strong>, Ph.D.<br>
-    <strong>Email</strong>: tingjun.chen[at]duke.edu<br>
-    <strong>Office</strong>: 411 Wilkinson<br>
-    <strong>Lab</strong>: 429 Wilkinson
+    <h5>
+      <strong style="color: var(--global-text-color)">Tingjun Chen</strong>, Ph.D.
+    </h5>
+    <p>
+      <i class="fas fa-envelope"></i> : tingjun.chen [at] duke.edu<br>
+      <i class="fas fa-building"></i> : 411 &amp; 429 Wilkinson<br>
+      <i class="fas fa-phone"></i> : (919) 613-1581
+    </p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m an assistant professor of [Electrical and Computer Engineering](https://ece.duke.edu/) and [Computer Science](https://cs.duke.edu/) (secondary appointment) at Duke University. I direct the 
-<a href="https://functions-lab.github.io/people/"><img src="../assets/img/functionslab_logo_transparent.png" width="90"></a>,
+I am an assistant professor of [Electrical and Computer Engineering](https://ece.duke.edu/) and [Computer Science](https://cs.duke.edu/) (secondary appointment) at Duke University. I direct the 
+<a href="https://functions-lab.github.io/lab/team"><img src="../assets/img/functionslab_logo_transparent.png" width="90"></a>,
 working with a group of talented students on various topics cutting across the networking, communication, sensing, and energy-efficient computing aspects of wireless, mobile, optical, and quantum networked systems, and our projects span both the theoretical and experimental domains. I am also the co-founder and Network Lead of [WiLO Networks Inc.](https://www.wilonetworks.com/), a start-up focusing on low-power sensor hardware and end-to-end systems.
 
-Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrical Engineering at Yale University in 2020-2021, working with Prof. [Leandros Tassiulas](https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas) and Prof. [Lin Zhong](https://www.linzhong.org/). Before that, I received my Ph.D. degree in Electrical Engineering from Columbia University in 2020 (advisor: Prof. [Gil Zussman](https://wimnet.ee.columbia.edu/people/gil-zussman/)) and my B.Eng. degree in Electronic Engineering from Tsinghua University in 2014 (advisors: Prof. [Zhisheng Niu](https://network.ee.tsinghua.edu.cn/niulab/niu_zhisheng.php) and Prof. [Sheng Zhou](https://network.ee.tsinghua.edu.cn/shengzhou/)).
+Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrical Engineering at Yale University in 2020&ndash;2021, working with Prof. [Leandros Tassiulas](https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas) and Prof. [Lin Zhong](https://www.linzhong.org/). Before that, I received my Ph.D. degree in Electrical Engineering from Columbia University in 2020 (advisor: Prof. [Gil Zussman](https://wimnet.ee.columbia.edu/people/gil-zussman/)) and my B.Eng. degree in Electronic Engineering from Tsinghua University in 2014 (advisors: Prof. [Zhisheng Niu](https://network.ee.tsinghua.edu.cn/niulab/niu_zhisheng.php) and Prof. [Sheng Zhou](https://network.ee.tsinghua.edu.cn/shengzhou/)).
 
 ---
 
