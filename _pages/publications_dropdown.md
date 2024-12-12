@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: Publications
 nav: false
-nav_order: 8
+nav_order: 4
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: by-year
+    permalink: /publications/by-year
   - title: divider
   - title: projects
     permalink: /projects/
