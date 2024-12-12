@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: FuNCtions Lab
-description: We work on various aspects across the Communication, Computation, and Cooperation in Future Networks and systems
+description: Our team works on various aspects across the communication, computation, and cooperation in future networks and systems
 nav: true
 nav_order: 1
 ---
