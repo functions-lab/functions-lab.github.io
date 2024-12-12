@@ -1,10 +1,13 @@
 ---
 layout: page
-permalink: /publications/
-title: Publications
-description:
+permalink: /publications/by-category
+title: Publications by Category
+description: 
 nav: false
-nav_order: 2
+nav_order: 92
+categories:
+  - conference
+  - journal
 ---
 
 <!-- _pages/publications.md -->
@@ -14,9 +17,9 @@ nav_order: 2
 Please refer to [Google Scholar](https://scholar.google.com/citations?user=RPmhP24AAAAJ&hl=en&oi=ao) page for the up-to-date list.
 
 <!-- {% include bib_search.liquid %} -->
-
 <div class="publications">
-
-{% bibliography %}
-
+  {% for c in page.categories %}
+    <h2 class="category">{{c}}</h2>
+    {% bibliography -q @*[category={{c}}]* %}
+  {% endfor %}
 </div>
