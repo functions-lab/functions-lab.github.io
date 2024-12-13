@@ -709,7 +709,7 @@ footer.sticky-bottom {
 
       .abbr {
         margin-bottom: 0.5rem;
-
+        
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
@@ -759,6 +759,11 @@ footer.sticky-bottom {
             border-bottom: 1px dashed var(--global-text-color);
           }
         }
+      }
+
+      .highlight {
+        font-weight: bolder;
+        color: var(--global-highlight-color);
       }
 
       .links {

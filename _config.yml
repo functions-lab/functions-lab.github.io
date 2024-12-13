@@ -359,8 +359,10 @@ filtered_bibtex_keywords:
     award_name,
     bibtex_show,
     blog,
+    category,
     code,
     google_scholar_id,
+    highlight,
     html,
     inspirehep_id,
     pdf,
@@ -371,6 +373,7 @@ filtered_bibtex_keywords:
     supp,
     video,
     website,
+    highlight
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
