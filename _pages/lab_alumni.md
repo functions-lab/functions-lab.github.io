@@ -11,7 +11,7 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/ToBeAdded.jpg" title="Yunjia Zhang" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/YunjiaZhang.jpg" title="Yunjia Zhang" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
         <h6><strong>Yunjia Zhang</strong> (Summer 2024)</h6>
@@ -37,7 +37,7 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/ToBeAdded.jpg" title="Walter Kalowsky" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/WalterKalowsky.jpg" title="Walter Kalowsky" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
         <h6><strong>Walter Kalowsky</strong> (Summer 2023)</h6>
@@ -109,7 +109,7 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/ToBeAdded.jpg" title="Xushu Wang" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/XushuWang.jpg" title="Xushu Wang" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
         <h6><strong>Xushu (Andy) Wang</strong> (Fall 2022)</h6>
