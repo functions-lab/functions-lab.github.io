@@ -19,7 +19,7 @@ profile:
     </p>
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -52,6 +52,27 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ###### **Past Projects**:
 - [**NSF EARS**] FlexICoN: Full-duplex Wireless: From Integrated Circuits to Networks (Columbia) [[FlexICoN website](https://flexicon.ee.columbia.edu/)]
 - [**NSF CISE**] EnHANTs: Energy-Harvesting Active Networked Tags (Columbia) [[EnHANTs website](https://enhants.ee.columbia.edu/)]
+
+---
+
+###### **Recent talks**:
+* “Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-Existence, and Field Trials” [[link](https://www.optica.org/events/webinar/2024/08_august/toward_intelligent_and_efficient_optical_networks_performance_modeling_co-existence_and_field_tri/)]
+* More talks and videos see below...
+
+<div class="row mt-3">
+    <div class="col-sm-3">
+        {% include video.liquid path="https://youtu.be/Btdl8_nNCH0" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3">
+        {% include video.liquid path="https://youtu.be/t2XxgExefns" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3">
+        {% include video.liquid path="https://youtu.be/SvS-nqTdLLg" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3">
+        {% include video.liquid path="https://youtu.be/MfWvQKvG2_Q" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
