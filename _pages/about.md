@@ -56,21 +56,26 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 ###### **Recent Talks**:
-* [**Aug. 2024**] [Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-Existence, and Field Trials](https://www.optica.org/events/webinar/2024/08_august/toward_intelligent_and_efficient_optical_networks_performance_modeling_co-existence_and_field_tri/)
+* [**Sept. 2024**] ``Scalable Wireless Digital Twins for High-delity RF Signal Mapping'', SpectrumX AI/ML Research Community Seminar.
+* [**Aug. 2024**] [``Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-Existence, and Field Trials''](https://www.optica.org/events/webinar/2024/08_august/toward_intelligent_and_efficient_optical_networks_performance_modeling_co-existence_and_field_tri/), Optica Technical Group Webinar (Optical Communications Technical Group).
 * More talks and videos see below...
 
-<div class="row mt-3">
+<div class="row">
     <div class="col-sm-3">
         {% include video.liquid path="https://www.youtube.com/embed/Btdl8_nNCH0" class="img-fluid rounded z-depth-1" %}
+        <p class="caption">Talk at the ACM SIGMOBILE community workshop</p>
     </div>
     <div class="col-sm-3">
         {% include video.liquid path="https://www.youtube.com/embed/t2XxgExefns" class="img-fluid rounded z-depth-1" %}
+        <p class="caption">Overview of the COSMOS testbed at ACM MobiCom'20</p>
     </div>
     <div class="col-sm-3">
         {% include video.liquid path="https://www.youtube.com/embed/SvS-nqTdLLg" class="img-fluid rounded z-depth-1" %}
+        <p class="caption">My Ph.D. life at Columbia Enginering</p>
     </div>
     <div class="col-sm-3">
         {% include video.liquid path="https://www.youtube.com/embed/MfWvQKvG2_Q" class="img-fluid rounded z-depth-1" %}
+        <p class="caption">Interviewed by WebsEdge Science</p>
     </div>
 </div>
 
