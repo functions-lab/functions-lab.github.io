@@ -37,6 +37,10 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 
 ---
 
+> **I am always looking for motivated and creative B.S., M.S., Ph.D. students, and Postdocs to join my group in Duke ECE. If you are interested, please email me your CV, transcript, and a brief note about your research interests, and I would be happy to chat!**
+
+---
+
 ###### **Ongoing Projects**:
 * [**Duke DST Launch Seed**] The Duke Quantum Network
 * [**NSF NewSpectrum**] Enabling Dense and In-situ Spectrum Monitoring via Circuits-system Co-design
@@ -82,3 +86,5 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 **Acknowledgments**: Our research projects are supported in part by NSF grants ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC-DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Pratt Engineering Beyond the Horizon Initiative grant, a Google Research Scholar Award, an IBM Academic Award, an NEC Labs America Research Gift, an NTT Research Grant, and an ACM SIGMOBILE Student Community Grant. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
+
+---
