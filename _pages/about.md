@@ -85,35 +85,11 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 
 ---
 
-**Acknowledgments**: Our research projects are supported in part by NSF grants ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC-DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, an IBM Academic Award, an NVIDIA Academic Grant, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
+**Acknowledgments**: Our research projects are supported in part by NSF grants ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, an IBM Academic Award, an NVIDIA Academic Grant, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
 
 <div class="row">
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_nsf.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_darpa.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_src.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_google.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_ibm.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_nvidia.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_nec.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_ntt.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_sigmobile.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div class="col-sm">
+        {% include figure.liquid path="assets/img/sponsor/icon_sponsors.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

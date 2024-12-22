@@ -7,6 +7,10 @@ nav: true
 nav_order: 1
 ---
 
+> Please check out our recent [publications](/publications/by-year) and [news](/news) to learn more about our ongoing projects.
+
+---
+
 ##### **Next-Generation Wireless Networks and Systems**
 
 Next-generation wireless networks will support Gbps+ data rates and sub-millisecond latency, which can enable a broad range of real-time applications including AR/VR, autonomous driving, and smart cities. Bringing future wireless networks to reality requires significant research across all layers of the network stack. Our research focuses on both the theoretical and experimental aspects of a wide range of enabling technologies including **millimeter-wave communications**, **massive-antenna systems**, **optical-wireless communications**, **integrated communication and sensing**, and **edge cloud and computing**. We also design practical, efficient, and scalable algorithms and systems, and develop customized prototypes and testbeds (such as the NSF-funded [PAWR COSMOS Platform](https://cosmos-lab.org/)) to evaluate their performance in real-world scenarios.
@@ -28,35 +32,11 @@ Our research projects involve extensive experimentation of various hardware and 
 
 ---
 
-**Acknowledgments**: Our research projects are supported in part by NSF grants ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC-DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, an IBM Academic Award, an NVIDIA Academic Grant, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
+**Acknowledgments**: Our research projects are supported in part by NSF grants ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, an IBM Academic Award, an NVIDIA Academic Grant, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
 
 <div class="row">
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_nsf.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_darpa.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_src.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_google.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_ibm.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_nvidia.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_nec.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_ntt.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm-2">
-        {% include figure.liquid path="assets/img/sponsor/icon_sigmobile.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    <div class="col-sm">
+        {% include figure.liquid path="assets/img/sponsor/icon_sponsors.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
