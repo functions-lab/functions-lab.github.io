@@ -7,7 +7,50 @@ nav: false
 nav_order: 1
 ---
 
+#### **Postdoctoral Researchers**
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/XiaoZhang.jpg" title="Xiao Zhang" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Dr. Xiao Zhang</strong> (2023&ndash;2024)</h6>
+        <p>
+            Current Affiliation: Assistant Professor, Department of Computer and Information Science, University of Michigan&ndash;Dearborn<br>
+            Email: zhanxiao [at] umich.edu
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/HaoYang.jpg" title="Hao Yang" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Dr. Hao (Frank) Yang</strong> (2023&ndash;2024, joint with Prof. Yiran Chen)</h6>
+        <p>
+            Current Affiliation: Assistant Professor, Department of Civil and System Engineering, Johns Hopkins University<br>
+            Email: haofrankyang [at] jhu.edu
+        </p>
+    </div>
+</div>
+
+---
+
 #### **M.S. and Undergraduate Students**
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/YimingLi.jpg" title="Yiming Li" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Yiming Li</strong> (2023&ndash;2024)</h6>
+        <p>
+            ECE M.S. Student<br>
+            Email: yiming.li416 [at] duke.edu
+        </p>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm-2">
@@ -139,6 +182,46 @@ nav_order: 1
         <h6><strong>Kaya Celebi</strong> (2020&ndash;2023)</h6>
         <p>
             CS Undergraduate Student<br>
+        </p>
+    </div>
+</div>
+
+---
+
+#### **High School Students**
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/ToBeAdded.jpg" title="Name" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Nayan Patel</strong> (Summer 2023)</h6>
+        <p>
+            High School Student from Cary Academy, NC<br>
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/ToBeAdded.jpg" title="Name" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Runxi Wan</strong> (Summer 2023, Summer 2022)</h6>
+        <p>
+            High School Student from Tenafly High School, NJ<br>
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/ToBeAdded.jpg" title="Name" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Denglei Wang</strong> (Summer 2022)</h6>
+        <p>
+            High School Student from Ranney School, NJ<br>
         </p>
     </div>
 </div>
