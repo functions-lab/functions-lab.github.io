@@ -161,7 +161,7 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/members/ToBeAdded.jpg" title="Gordon Kim" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/members/GordonKim.jpg" title="Gordon Kim" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
         <h6><strong>Gordon Kim</strong></h6>
