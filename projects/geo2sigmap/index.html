@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="High-fidelity RF signal mapping using geographic databases.">
+  <meta name="keywords" content="Digital Twins, Ray Tracing">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Geo2SigMap: Scalable 3D Scene Generation and ML-based High-fidelity RF Signal Mapping</title>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SJYBHT2D01"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SJYBHT2D01');
+</script>
+
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/code-solid.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+
+<body>
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Geo2SigMap: </br>Scalable 3D Scene Generation and ML-based High-fidelity RF Signal Mapping</h1>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a
+                  href="https://functions-lab.github.io/lab/team#:~:text=at%5D%20duke.edu-,Yiming%20Li,-Ph.D.%20student">Yiming
+                  Li</a>,</span>
+              <span class="author-block">
+                <a
+                  href="https://functions-lab.github.io/lab/team#:~:text=at%5D%20duke.edu-,Zeyu%20(Michael)%20Li,-ECE%20Undergraduate%20Student">Michael
+                  (Zeyu) Li</a>,</span>
+              <span class="author-block">
+                <a href="https://zhihuigao.github.io/">Zhihui Gao</a>,</span>
+              <span class="author-block">
+                <a href="https://functions-lab.github.io/">Tingjun Chen</a>
+              </span>
+              <!-- <span class="author-block">
+              <a href="https://tingjunchen.com/">Tingjun Chen</a><sup>2</sup>,
+            </span> -->
+            </div>
+
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">Department of Electrical and Computer Engineering, Duke University</span>
+              <!-- <span class="author-block"><sup>2</sup>Google Research</span> -->
+            </div>
+            <span class="brmod" style="margin-top:0.5em"><strong style="font-weight: 700;"><a
+                  href="https://dyspan2024.ieee-dyspan.org/" target="_blank">DySPAN 2024</a></strong></span>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <!-- PDF Link. -->
+                <span class="link-block">
+                  <a href="https://ieeexplore.ieee.org/document/10632773"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                    </span>
+                    <span>Paper</span>
+                  </a>
+                </span>
+                
+                <!-- Code Link. -->
+                <span class="link-block">
+                  <a href="https://github.com/functions-lab/geo2sigmap"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+                <!-- Dataset Link. -->
+                <span class="link-block">
+                  <a href="https://github.com/google/nerfies/releases/tag/0.1"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="far fa-images"></i>
+                    </span>
+                    <span>Dataset</span>
+                  </a>
+                </span>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="hero teaser  is-light">
+    <div class="container ">
+      <div class="hero-body">
+        <video id="teaser" autoplay muted loop playsinline style="max-width:100%">
+          <source src="./static/videos/g2sm_Pages_main_v3.webm" type="video/webm">
+        </video>
+        <!-- <video id="teaser" autoplay muted loop playsinline style="max-width:40%">
+          <source src="./static/videos/g2sm_pages_OSM_Orbit_DavisonHall_CCW_Removed_Top_lanczos.webm" type="video/webm">
+        </video>
+        </br>
+
+
+        <img src="./static/videos/DavisonHall.webp" alt="WebP animation" style="max-width:40%">
+        <img src="./static/videos/placeholder.png" alt="ML output result" style="max-width:40%"> -->
+        <h2 class="subtitle has-text-centered">
+          <span class="dnerf">Geo2SigMap</span> truns geographical information into physically accruate digital twins, which can be used to
+          train and generating ML models for signal coverage prediction.
+        </h2>
+
+      </div>
+  </section>
+
+
+  
+
+
+  <section class="section">
+    <div class="container is-max-desktop">
+      <!-- Abstract. -->
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Overview</h2>
+          <div class="content has-text-justified">
+            <p>
+              Welcome to the Geo2SigMap, an efficient framework for high-fidelity RF signal mapping leveraging geographic databases, ray tracing,
+              and a novel cascaded U-Net model. Geo2SigMap features a scalable, automated pipeline that efficiently generates 3D building
+              and path gain (PG) maps via the integration of a suite of open-sourced tools, including OpenStreetMap (OSM) and NVIDIA's Sionna RT.
+              Geo2SigMap also features a cascaded U-Net model, which is pre-trained on pure synthetic datasets leveraging the building map
+              and sparse signal strength (SS) map as input to predict the full SS map for the target (unseen) area. The performance of
+              Geo2SigMap has been evaluated using large-scale field measurements collected using three types of user equipment (UE) across
+              six LTE cells operating in the citizens broadband radio service (CBRS) band deployed on the Duke University West Campus. Our
+              results show that Geo2SigMap achieves significantly improved root-mean-square error (RMSE) in terms of the SS map prediction
+              accuracy compared to existing baseline methods based on channel models and ML.
+            </p>
+            <p>
+              The current version of the <a href="https://github.com/functions-lab/geo2sigmap">codebase (v1.0.0)</a> consists of two main components:
+            </p>
+            <ul>
+              <li><strong>Scene Generation:</strong> A pure Python-based pipeline for generating 3D scenes for arbitrary areas of interest. This new Python-based pipeline replaces the scene generation pipeline used in our DySPAN'24 paper and is more scalable, efficient, and user-friendly.</li>
+              <li><strong>ML-based Propagation Model:</strong> ML-based signal coverage prediction using the pre-trained model based on the cascaded U-Net architecture, also described in our DySPAN'24 paper.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!--/ Abstract. -->
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="container is-max-desktop">
+
+      <div class="columns is-centered">
+
+        
+      </div>
+      <!--/ Matting. -->
+
+      <!-- Animation. -->
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">1: Scalable 3D Scene Generation for Arbitrary Areas</h2>
+
+          <!-- Interpolating. -->
+          <!-- <h3 class="title is-4">Interpolating states</h3> -->
+          <div class="content has-text-justified">
+            <div class="column ">
+              <img src="./static/images/g2sm_scene_gen_workflow.png" class="interpolation-image"
+                alt="Interpolation end reference image." />
+              <p class="is-bold"></p>
+            </div>
+            <p>
+              Geo2SigMap implements a scalable, pure Python-based 3D scene generation workflow (scene_gen) using <a herf="https://www.open3d.org/docs/release/getting_started.html">Open3D</a> and the <a href="https://www.openstreetmap.org/">OpenStreetMap (OSM)</a> database.
+              Through command line tools or Python APIs, one can easily scale up 3D scene generation for hundreds of thousands of arbitraray selected areas.
+            </p>
+          </div>
+          
+          <br />
+          
+
+        </div>
+      </div>
+      <!--/ Animation. -->
+
+      <!-- Animation. -->
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">2. ML-based Signal Coverage Prediction using Sparse Measurements</h2>
+
+          <!-- Interpolating. -->
+          <!-- <h3 class="title is-4">Interpolating states</h3> -->
+          <div class="content has-text-justified">
+            <div class="column ">
+              <img src="./static/images/g2sm_model_arch.png" class="interpolation-image"
+                alt="Interpolation end reference image." />
+              <p class="is-bold"></p>
+            </div>
+            <p>
+              Geo2SigMap achieves efficient and precise RF signal mapping via a cascaded U-Net architecture, which is
+              composed of U-Net-Iso and U-Net-Dir for generating coarse path gain (PG) maps and fine-grained signal
+              strengh (SS) maps, respectively. Specifically, the first U-Net generates a PG map that embeds the environmental information,
+              and the second U-Net further refines this process and generates the fine-grained SS map by incorporating directivity and
+              link budget information, as well as an additional input of a sparsely sampled SS map sampled across the same area.
+            </p>
+            <div class="column ">
+              <img src="./static/images/g2sm_model_training.png" class="interpolation-image"
+                alt="Interpolation end reference image." />
+              <p class="is-bold"></p>
+            </div>
+            <p>
+              The model is trained on purely synthetic ray tracing data
+              generated using our 3D scene generation workflow and NVIDIA's <a href="https://nvlabs.github.io/sionna/examples/Sionna_Ray_Tracing_Introduction.html">Sionna RT</a>.
+              Therefore, no real-world measurements are required during the training phase.
+              The training set features a 6.41 million km^2 area in North America, from which a total number of 27,176 512m x 512m areas
+              with a building-to-land ratio of at least 20% are selected to generate the building map and PG map datasets used to train the
+              cascaded U-Net model. When the pre-trained model is employed to predict
+              the detailed SS map for a specific area, we incorporate a few field measurements that serve as the sparse SS map input to the
+              second U-Net. Such a design effectively streamlines the model's applicability across different areas and eliminates the need for retraining the 
+              entire model for different geographical settings. 
+            </p>
+            <div class="column ">
+              <img src="./static/images/g2sm_measurements_duke.png" class="interpolation-image"
+                alt="Interpolation end reference image." />
+              <p class="is-bold"></p>
+            </div>
+            <p>
+              We evaluate the model performance via a real-world measurement campaign, where three types of UE collect cellular information
+              from six LTE cells operating in the citizens broadband radio service (CBRS) band (3.55–3.7 GHz), deployed on the Duke University
+              West Campus. Using customized Android apps and Python scripts, we collect over 45,000 measurements, each including various key
+              cellular metrics such as the physical cell ID (PCI), reference signal received power (RSRP), and reference signal received quality (RSRQ).
+            </p>
+            <div class="column ">
+              <img src="./static/images/g2sm_results_duke.png" class="interpolation-image"
+                alt="Interpolation end reference image." />
+              <p class="is-bold"></p>
+            </div>
+            <p>
+              Evaluation results show that our model achieves an average root-mean-square-error (RMSE) of 6.04 dB for predicting the RSRP
+              at the UE across the six LTE cells, representing an average improvement of 3.59 dB compared to existing RF signal mapping methods
+              that rely on statistical channel models, ray tracing, and ML approaches.
+            </p>
+          </div>
+          
+          <br />
+          
+
+        </div>
+      </div>
+      <!--/ Animation. -->
+
+      <!-- Animation. -->
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">3: Scalable 3D Scene Generation for Arbitrary Areas</h2>
+
+          <!-- Interpolating. -->
+          <!-- <h3 class="title is-4">Interpolating states</h3> -->
+          <div class="content has-text-justified">
+            <div class="column ">
+              <img src="./static/images/g2sm_cosmos_fr1_fr2.png" class="interpolation-image"
+                alt="Interpolation end reference image." />
+              <p class="is-bold"></p>
+            </div>
+            <p>
+              Our developed framework can be easily adapted to different areas. Shown above is an example of the developed wireless digital twin
+              for the NSF <a href="https://cosmos-lab.org/">PAWR COSMOS testbed</a> area in the FCC Innovation Zone in West Harlem, NYC, where
+              the coverage analysis is performed using Sionna RT in both FR1 (at 2.4 GHz) and FR2 (at 28 GHz) across the ~1 sq. mile area.
+              For more examples, please refer to our <a href="https://github.com/functions-lab/geo2sigmap/tree/main/examples">tutorial Jyputer notebooks</a>.
+            </p>
+          </div>
+          
+          <br />
+          
+
+        </div>
+      </div>
+      <!--/ Animation. -->
+
+      <!-- Acknowledgements -->
+      <div class="columns is-centered">
+        <div class="column is-full-width">
+          <h2 class="title is-3">Acknowledgements</h2>
+
+          <div class="content has-text-justified">
+            <p>
+              The work was carried out in the <a herf="https://functions-lab.github.io/">FuNCtions Lab</a> at Duke
+              University and supported in part by NSF grants CNS2112562, CNS-2128638, CNS-2211944, and AST-2232458, and an NVIDIA Academic Grant.
+              We thank Joe Scarangella (RF Connect), and John Board, William Brockelsby, and Robert Johnson (Duke
+              University) for their contributions to this work.
+            </p>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>
+      @inproceedings{li2024geo2sigmap,
+        title={Geo2SigMap: High-fidelity RF signal mapping using geographic databases},
+        author={Li, Yiming and Li, Zeyu and Gao, Zhihui and Chen, Tingjun},
+        booktitle={2024 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)},
+        pages={277--285},
+        year={2024},
+        organization={IEEE}
+      }
+  </code></pre>
+    </div>
+  </section>
+
+
+  <footer class="footer">
+    
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            Website template courtesy of <span class="dnerf"><a
+                href="https://github.com/nerfies/nerfies.github.io">Nerfies</a></span>.
+          </p>
+        </div>
+      </div>
+    </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
