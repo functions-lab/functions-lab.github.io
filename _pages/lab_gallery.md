@@ -9,6 +9,10 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-6">
+        {% include figure.liquid loading="eager" path="assets/img/gallery/sp2025_group_davison.jpg" title="Srping 2025 Group Photo" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <p class="caption">Group photo in our Wilkinson lab (Feb. 2025)</p>
+    </div>
+    <div class="col-sm-6">
         {% include figure.liquid loading="eager" path="assets/img/gallery/ece655_fall2024.jpg" title="ECE 655 Fall 2024" class="img-fluid rounded z-depth-1" zoomable=true %}
         <p class="caption">Final project presetation session for ECE/CompSci 655: Full-Stack IoT Systems (Dec. 2024)</p>
     </div>

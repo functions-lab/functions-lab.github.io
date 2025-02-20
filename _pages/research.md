@@ -13,22 +13,61 @@ nav_order: 1
 
 ##### **Next-Generation Wireless Networks and Systems**
 
-Next-generation wireless networks will support Gbps+ data rates and sub-millisecond latency, which can enable a broad range of real-time applications including AR/VR, autonomous driving, and smart cities. Bringing future wireless networks to reality requires significant research across all layers of the network stack. Our research focuses on both the theoretical and experimental aspects of a wide range of enabling technologies including **millimeter-wave communications**, **massive-antenna systems**, **optical-wireless communications**, **integrated communication and sensing**, and **edge cloud and computing**. We also design practical, efficient, and scalable algorithms and systems, and develop customized prototypes and testbeds (such as the NSF-funded [PAWR COSMOS Platform](https://cosmos-lab.org/)) to evaluate their performance in real-world scenarios.
+<div class="row">
+    <div class="col-sm-4">
+        {% include figure.liquid loading="eager" path="assets/img/lab/lab_usrp_sivers.jpg" title="Lab USRP Sivers" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        <p>
+            Future wireless networks will support Gbps+ data rates and sub-millisecond latency, enabling a broad range of real-time applications including AR/VR/XR, autonomous driving, and smart cities. Bringing these networks to reality requires significant research across all networking layers. Our research focuses on both the theoretical and experimental aspects of a wide range of enabling technologies including millimeter-wave communications, massive-antenna systems, optical-wireless communications, integrated communication and sensing, and edge computing. We design practical and efficient algorithms, evaluated using customized prototypes and real-world testbeds (such as the NSF-funded <a href="https://cosmos-lab.org/">PAWR COSMOS Platform</a>).
+        </p>
+    </div>
+</div>
 
 ---
 
 ##### **AI/ML-enabled Wireless and Optical Networking**
-As we are embracing 5G and beyond-5G mobile networks, their network infrastructures are in need of a revolution in order to fulfill the massive computation needs, increasing hardware and software complexities, and the large volume of cross-domain data. By leveraging the ongoing revolution in Artificial Intelligence (AI) and machine learning (ML), our research focuses on **AI- and ML-powered wireless networking at the edge**, with the goal to create a new adaptable, scalable, and performance-aware mobile network infrastructure that can provide flexible services for heterogeneous use cases. We will also explore a data-driven approach to complement and augment existing algorithmic alternatives in the design of next-generation wireless networks and systems.
+
+<div class="row">
+    <div class="col-sm-4">
+        {% include figure.liquid loading="eager" path="assets/img/lab/lab_fiber_panel.jpg" title="Lab Fiber Panel" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        <p>
+            As we are embracing 5G and beyond-5G mobile networks, their network infrastructures are in need of a revolution in order to fulfill the massive computation needs, increasing hardware and software complexities, and the large volume of cross-domain data. By leveraging the ongoing revolution in machine intelligence, our research focuses on AI- and ML-powered wireless and optical networking, with the goal to create a new adaptable, scalable, and performance-aware mobile network infrastructure that can provide flexible services for heterogeneous use cases. We will also explore a data-driven approach to complement and augment existing algorithmic alternatives in the design of next-generation networked systems.
+        </p>
+    </div>
+</div>
 
 ---
 
 ##### **Spectrum Monitoring and Coexistence**
-The expanded spectrum usage in the 5G and beyond-5G eras inevitably calls for the coexistence of commercial services (e.g., cellular networks), non-commercial active users (e.g., weather satellite and GPS), and passive users (e.g., radio astronomy), leading to interference for both active and passive users. Our research focuses on the **design of a cooperative network system for spectrum sharing and coexistence**, where each receiver (RX) can detect interference in real-time, identify the type and source of interference, and more importantly, react to the interference by adopting selective interferer nulling, leveraging an intelligent network control architecture and machine learning (ML) techniques.
+
+<div class="row">
+    <div class="col-sm-4">
+        {% include figure.liquid loading="eager" path="assets/img/lab/lab_cbrs_cell.jpg" title="Lab CBRS Cell" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        <p>
+            The expanded spectrum usage in the 5G and beyond-5G eras inevitably calls for the coexistence of commercial services (e.g., cellular networks), non-commercial active users (e.g., weather satellite and GPS), and passive users (e.g., radio astronomy), leading to interference for both active and passive users. Our research focuses on the design of a cooperative network system for spectrum sharing and coexistence, where each receiver (RX) can detect both in-band and adjacent-band interference in real-time, identify the type and source of interference, and more importantly, react to the interference by adopting selective interferer nulling, leveraging an intelligent network control architecture and ML techniques.
+        </p>
+    </div>
+</div>
 
 ---
 
 ##### **Prototyping and Testbed Development**
-Our research projects involve extensive experimentation of various hardware and software components, including the programmable software-defined radios (e.g., USRP) in sub-6 GHz and millimeter-wave frequencies, edge servers, high-speed coherent transceivers, etc. Our lab is equipped with a variety of these wireless, compute, and optical hardware. In addition, we also leverage the city-scale [PAWR COSMOS Platform](https://cosmos-lab.org/) for various measurements and experiments.
+
+<div class="row">
+    <div class="col-sm-4">
+        {% include figure.liquid loading="eager" path="assets/img/lab/lab_rfsoc.jpg" title="Lab RFSoC" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        <p>
+            Our research projects involve extensive development of and experimentation with various hardware and software components, including the programmable software-defined radios (e.g., USRP X3xx/N3xx/X4x0 and Xilinx's Gen-3 RFSoC) with both sub-6 GHz and millimeter-wave (28/60/140 GHz) front ends, edge servers with CPUs/GPUs/ASICs, high-speed coherent transceivers, etc. Our lab is equipped with a variety of modern, cutting-edge wireless, optical, and compute hardware and measurement instruments. We also leverage a local wireless-optical testbed deployed on the Duke campus in Durham, NC, and the city-scale <a href="https://cosmos-lab.org/">PAWR COSMOS Platform</a> deployed in West Harlem, NYC, for measurements and experiments.
+        </p>
+    </div>
+</div>
 
 ---
 
