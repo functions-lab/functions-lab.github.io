@@ -56,6 +56,21 @@ nav_order: 1
 
 ---
 
+##### **Scalable Wireless Digital Twins**
+
+<div class="row">
+    <div class="col-sm-4">
+        {% include figure.liquid loading="eager" path="assets/img/lab/lab_wirelessdt.gif" title="Lab CBRS Cell" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        <p>
+            Wireless digital twins (DTs), constructed using real-world 3D scenes and ray tracing (RT) engines, provide an advanced, integrated platform for the design, modeling, and optimization of next-generation wireless networks. By integrating RT methods that accurately simulate the complex interactions of EM waves with the 3D physical world scenes comprising diverse objects, wireless DTs can also help understand signal propagation, interference, and coverage areas. We are building scalable, adaptive, physically accurate wireless DTs, as well as investigating their roles and enhancing their capabilities in future networks (e.g., 6G and O-RAN).
+        </p>
+    </div>
+</div>
+
+---
+
 ##### **Prototyping and Testbed Development**
 
 <div class="row">
