@@ -46,7 +46,7 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ###### <a name="ongoing-projects"></a>**Ongoing Projects**:
 * [**Duke DST Launch**] The Duke Quantum Network [[Duke news](https://today.duke.edu/2024/12/research-innovation-seed-grants-total-nearly-2-million)]
 * [**NSF NewSpectrum**] Enabling Dense and In-situ Spectrum Monitoring via Circuits-system Co-design
-* [**Duke Engineering BtH Initiative**] Lighting a Dark Fiber Network for Hybrid Quantum-Classical Experimental Research
+* [**Duke Engineering BtH Initiative**] Lighting a Dark Fiber Network for Hybrid Quantum-Classical Experimental Research [[Pratt news](https://pratt.duke.edu/news/quantum-fiber-network/)]
 * [**NSF EAGER**] An Integrated Fiber Sensing and Communication Living Lab in the Research Triangle
 * [**SRC/DARPA JUMP 2.0**] Center for Ubiquitous Connectivity (CUbiC) [[CUbiC website](https://cubic.engineering.columbia.edu/)] [[center info](https://www.src.org/program/jump2/cubic/)]
 * [**NSF SII-NRDZ**] Spectrum Sharing via Consumption Models and Telemetry in an Urban FCC Innovation Zone

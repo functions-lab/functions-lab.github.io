@@ -60,7 +60,7 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-4">
-        {% include figure.liquid loading="eager" path="assets/img/lab/lab_wirelessdt.gif" title="Lab CBRS Cell" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/lab/lab_wirelessdt.gif" title="Lab Wireless DT" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-8">
         <p>
@@ -71,7 +71,7 @@ nav_order: 1
 
 ---
 
-##### **Prototyping and Testbed Development**
+##### **Prototyping, Testbed Development, and Hardware-Software Co-Design**
 
 <div class="row">
     <div class="col-sm-4">
@@ -80,6 +80,36 @@ nav_order: 1
     <div class="col-sm-8">
         <p>
             Our research projects involve extensive development of and experimentation with various hardware and software components, including the programmable software-defined radios (e.g., USRP X3xx/N3xx/X4x0 and Xilinx's Gen-3 RFSoC) with both sub-6 GHz and millimeter-wave (28/60/140 GHz) front ends, edge servers with CPUs/GPUs/ASICs, high-speed coherent transceivers, etc. Our lab is equipped with a variety of modern, cutting-edge wireless, optical, and compute hardware and measurement instruments. We also leverage a local wireless-optical testbed deployed on the Duke campus in Durham, NC, and the city-scale <a href="https://cosmos-lab.org/">PAWR COSMOS Platform</a> deployed in West Harlem, NYC, for measurements and experiments.
+        </p>
+    </div>
+</div>
+
+---
+
+##### **Analog and In-Physics Computing**
+
+<div class="row">
+    <div class="col-sm-4">
+        {% include figure.liquid loading="eager" path="assets/img/lab/lab_analog_computing.jpg" title="Lab Analog Computing" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        <p>
+            Coming soon...
+        </p>
+    </div>
+</div>
+
+---
+
+##### **Quantum Networking and Sensing**
+
+<div class="row">
+    <div class="col-sm-4">
+        {% include figure.liquid loading="eager" path="assets/img/lab/lab_optical_lens.jpg" title="Lab Optical Lens" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-8">
+        <p>
+            Coming soon...
         </p>
     </div>
 </div>
