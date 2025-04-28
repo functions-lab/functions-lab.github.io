@@ -6,6 +6,7 @@ description:
 nav: false
 nav_order: 92
 categories:
+  - preprint
   - conference
   - journal
 ---

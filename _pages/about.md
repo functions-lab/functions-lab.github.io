@@ -62,7 +62,12 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 ###### **Recent Talks**:
-* [**Sept. 2024**] ``Scalable Wireless Digital Twins for High-delity RF Signal Mapping'', SpectrumX AI/ML Research Community Seminar.
+* [**Apr. 2025**] [``Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-existence, and Field Trials''](https://oqe.nonlocally.org/event/2025-04-23%2011:00:00/0/), MIT Optics and Quantum Electronics (OQE) Seminar.
+* [**Mar. 2025**] ``Scalable ML Models for Optical Transmission System Management'', IEEE/Optica OFC.
+* [**Mar. 2025**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', FCC Technological Advisory Council
+Working Group on AI/ML (TAC-AIWG).
+* [**Sept. 2024**] ``Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-existence, and Field Trials'', 6G-XCEL/ACCoRD Joint Workshop.
+* [**Sept. 2024**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', SpectrumX AI/ML Research Community Seminar.
 * [**Aug. 2024**] [``Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-Existence, and Field Trials''](https://www.optica.org/events/webinar/2024/08_august/toward_intelligent_and_efficient_optical_networks_performance_modeling_co-existence_and_field_tri/), Optica Technical Group Webinar (Optical Communications Technical Group).
 * More talks and videos see below...
 
@@ -87,7 +92,7 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 
 ---
 
-**Acknowledgments**: Our research projects are supported in part by NSF grants ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, an IBM Academic Award, an NVIDIA Academic Grant, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
+**Acknowledgments**: Our research projects are supported in part by NSF grants ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, IBM Academic Awards, NVIDIA Academic Awards, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
 
 <div class="row">
     <div class="col-sm">

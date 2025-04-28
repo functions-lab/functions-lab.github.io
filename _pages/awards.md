@@ -9,6 +9,9 @@ nav_order: 4
 
 ##### **Honors &amp; Awards**:
 
+* NVIDIA Academic Award (2025)
+
+* NVIDIA Academic Award (2024)
 * Top-Scored Paper, IEEE/Optica (2024)
 * Corning Outstanding Student Paper Competition Finalist, IEEE/Optica OFC (2024)
 
