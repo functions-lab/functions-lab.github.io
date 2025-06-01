@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2025-04-15 10:00:00
+inline: true
+related_posts: false
+---
+
+Received a research grant from NTT to work on machine learnign tehcnology for resilient optical networks.
