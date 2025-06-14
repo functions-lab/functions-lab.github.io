@@ -53,11 +53,11 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 * [**NSF CISE**] Medium: Softwarizing Millimeter-wave Radio Access Networks at the Edge 
 * [**NSF SWIFT**] Spectrum Coexistence with Rapid Interferer Learning, Detection, and Mitigation
 * [**NSF NAI**] National AI Institute for Edge Computing Leveraging Next-generation Networks [[Athena website](https://athena.duke.edu/)]
-* [**NSF PAWR**] Cloud Enhanced Open Software-defined Mobile Wireless Testbed for City-scale Deployment [[COSMOS website](https://cosmos-lab.org/)]
 
 ###### **Past Projects**:
-- [**NSF EARS**] FlexICoN: Full-duplex Wireless: From Integrated Circuits to Networks (Columbia) [[FlexICoN website](https://flexicon.ee.columbia.edu/)]
-- [**NSF CISE**] EnHANTs: Energy-Harvesting Active Networked Tags (Columbia) [[EnHANTs website](https://enhants.ee.columbia.edu/)]
+* [**NSF PAWR**] Cloud Enhanced Open Software-defined Mobile Wireless Testbed for City-scale Deployment [[COSMOS website](https://cosmos-lab.org/)]
+* [**NSF EARS**] FlexICoN: Full-duplex Wireless: From Integrated Circuits to Networks (Columbia) [[FlexICoN website](https://flexicon.ee.columbia.edu/)]
+* [**NSF CISE**] EnHANTs: Energy-Harvesting Active Networked Tags (Columbia) [[EnHANTs website](https://enhants.ee.columbia.edu/)]
 
 ---
 

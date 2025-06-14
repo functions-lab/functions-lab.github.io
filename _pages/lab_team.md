@@ -68,19 +68,6 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/members/ZhecunLiu.jpg" title="Zhecun Liu" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-10">
-        <h6><strong>Zhecun Liu</strong></h6>
-        <p>
-            Ph.D. student<br>
-            Email: zhecun.liu [at] duke.edu
-        </p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm-2">
         {% include figure.liquid loading="eager" path="assets/img/members/ZhenzhouQi.jpg" title="Zhenzhou Qi" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
@@ -135,13 +122,13 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/members/SylvesterArizie.jpg" title="Sylvester Johannes Arizie" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/members/LabMemberDefault.jpg" title="Kelvin Zhang" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
-        <h6><strong>Sylvester Johannes Arizie</strong></h6>
+        <h6><strong>Kelvin Zhang</strong></h6>
         <p>
             ECE Undergraduate Student<br>
-            Email: sylvesterjohannes.arizie [at] duke.edu
+            Email: kelvin.zhang [at] duke.edu
         </p>
     </div>
 </div>
@@ -161,36 +148,6 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/members/GordonKim.jpg" title="Gordon Kim" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-10">
-        <h6><strong>Gordon Kim</strong></h6>
-        <p>
-            ECE Undergraduate Student<br>
-            Email: gordon.kim [at] duke.edu
-        </p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/members/ZeyuLi.jpg" title="Zeyu Li" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-10">
-        <h6><strong>Zeyu (Michael) Li</strong></h6>
-        <p>
-            ECE Undergraduate Student<br>
-            Email: zeyu.li030 [at] duke.edu
-        </p>
-        <p style="color: var(--global-theme-color); font-weight: bold;">
-            Pratt Research Fellow (Class of 2025),
-            3rd Place Winner of ECE Independent Study Poster Session (Spring 2024)
-        </p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm-2">
         {% include figure.liquid loading="eager" path="assets/img/members/YichyunWong.jpg" title="Yi-Chyun Wong" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
@@ -198,19 +155,6 @@ nav_order: 1
         <p>
             ECE Undergraduate Student<br>
             Email: yichyun.wong [at] duke.edu
-        </p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm-2">
-        {% include figure.liquid loading="eager" path="assets/img/members/JunyaoZheng.jpg" title="Junyao Zheng" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-10">
-        <h6><strong>Junyao (Bill) Zheng</strong></h6>
-        <p>
-            ECE Undergraduate Student<br>
-            Email: junyao.zheng [at] duke.edu
         </p>
     </div>
 </div>
