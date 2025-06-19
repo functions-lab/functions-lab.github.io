@@ -37,6 +37,9 @@ nav_order: 1
             Ph.D. student (co-advised with Prof. Yiran Chen)<br>
             Email: wei.cheng [at] duke.edu
         </p>
+        <p style="color: var(--global-theme-color); font-weight: bold;">
+            ECE Outstanding Graduate Teaching Assistant Award (2025)
+        </p>
     </div>
 </div>
 
@@ -49,6 +52,9 @@ nav_order: 1
         <p>
             Ph.D. student (co-advised with Prof. Yiran Chen)<br>
             Email: zhihui.gao [at] duke.edu
+        </p>
+        <p style="color: var(--global-theme-color); font-weight: bold;">
+            CUbiC Scholar Leadership Award (2024)
         </p>
     </div>
 </div>
@@ -93,6 +99,9 @@ nav_order: 1
             Ph.D. student<br>
             Email: chunghsuan.tung [at] duke.edu
         </p>
+        <p style="color: var(--global-theme-color); font-weight: bold;">
+            CUbiC Scholar Leadership Award (2024)
+        </p>
     </div>
 </div>
 
@@ -107,6 +116,7 @@ nav_order: 1
             Email: zehao.w [at] duke.edu
         </p>
         <p style="color: var(--global-theme-color); font-weight: bold;">
+            ECE Outstanding Graduate Teaching Assistant Award (2025),
             IEEE/Optica OFC’24 Top-Scored Paper,
             IEEE/Optica OFC’24 Corning Outstanding Student Paper Competition Finalist,
             ECOC’23 Highest Scoring and Best Paper,

@@ -35,7 +35,7 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 
 **Interests**: I am interested in the broad areas of future wireless, mobile, optical, and quantum networks as well as intelligent IoT systems. My recent research focuses on both theoretical and experimental aspects of massive antenna systems and millimeter-wave networks, optical and quantum networks, and spectrum sharing systems, and their convergence with edge cloud, energy-efficient computing, and AI/ML. I also enjoy building efficient hardware-software systems and experimental testbeds at scale.
 
-**Impacts**: My research has been recognized by two IBM Academic Awards (2023, 2021), a Google Research Scholar Award (2021), the Columbia Engineering Morton B. Friedman Memorial Prize for Excellence (2021), the Columbia University Eli Jury Award (2021), a Facebook Fellowship (2019), and a Wei Family Private Foundation (WFPF) Fellowship (2014). I have received multiple paper awards from IEEE/Optica OFC’24 (Top-Scored Paper), IEEE/Optica OFC’23 (Top-Scored Paper), ECOC’23 (Best Paper Award), ACM CoNEXT’16 (Best Paper Award), ACM MobiHoc’19 (Best Paper Finalist), and IEEE MTT-S IMS’19 (Advanced Practice Paper Finalist). My Ph.D. thesis received the ACM SIGMOBILE Dissertation Award Runner-up. WiLO Networks Inc. is currently supported by NSF SBIR Phase I (TI-2108012) and Phase II (TI-2345381) awards.
+**Impacts**: My research has been recognized by an NSF CAREER Award (2025), two NVIDIA Academic Awards (2025, 2024), two IBM Academic Awards (2023, 2021), a Google Research Scholar Award (2021), the Columbia Engineering Morton B. Friedman Memorial Prize for Excellence (2021), the Columbia University Eli Jury Award (2021), a Facebook Fellowship (2019), and a Wei Family Private Foundation (WFPF) Fellowship (2014). I have received multiple paper awards from IEEE/Optica OFC’24 (Top-Scored Paper), IEEE/Optica OFC’23 (Top-Scored Paper), ECOC’23 (Best Paper Award), ACM CoNEXT’16 (Best Paper Award), ACM MobiHoc’19 (Best Paper Finalist), and IEEE MTT-S IMS’19 (Advanced Practice Paper Finalist). My Ph.D. thesis received the ACM SIGMOBILE Dissertation Award Runner-up. WiLO Networks Inc. has been supported by NSF SBIR Phase I and Phase II Awards (TI-2108012 and TI-2345381).
 
 ---
 
@@ -44,6 +44,7 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 ###### <a name="ongoing-projects"></a>**Ongoing Projects**:
+* [**NSF CAREER**] Toward Efficient and Scalable Mobile Fronthaul Empowered by Analog Radio-over-Fiber [[award info](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443137&HistoricalAwards=false)]
 * [**Duke DST Launch**] The Duke Quantum Network [[Duke news](https://today.duke.edu/2024/12/research-innovation-seed-grants-total-nearly-2-million)]
 * [**NSF NewSpectrum**] Enabling Dense and In-situ Spectrum Monitoring via Circuits-system Co-design
 * [**Duke Engineering BtH Initiative**] Lighting a Dark Fiber Network for Hybrid Quantum-Classical Experimental Research [[Pratt news](https://pratt.duke.edu/news/quantum-fiber-network/)]
@@ -92,7 +93,7 @@ Working Group on AI/ML (TAC-AIWG).
 
 ---
 
-**Acknowledgments**: Our research projects are supported in part by NSF grants ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, IBM Academic Awards, NVIDIA Academic Awards, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
+**Acknowledgments**: Our research projects are supported in part by NSF grants CNS-2443137 (CAREER), ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, IBM Academic Awards, NVIDIA Academic Awards, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
 
 <div class="row">
     <div class="col-sm">

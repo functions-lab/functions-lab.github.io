@@ -68,8 +68,8 @@ nav_order: 1
         <h6><strong>Zeyu Li</strong> (2023&ndash;2025)</h6>
         <p>ECE Undergraduate Student</p>
         <p>(Now in Ph.D. program at Duke ECE)</p>
-        <p style="color: var(--global-theme-color); font-size: small; font-weight: bold;">
-            Pratt Research Fellow (Class of 2025)<br>
+        <p style="color: var(--global-theme-color); font-weight: bold;">
+            Pratt Research Fellow (Class of 2025),
             3rd Place Winner of ECE Independent Study Poster Session (Spring 2024)
         </p>
     </div>
