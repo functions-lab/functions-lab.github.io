@@ -116,7 +116,7 @@ nav_order: 1
 
 ---
 
-**Acknowledgments**: Our research projects are supported in part by NSF grants CNS-2443137 (CAREER), ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, IBM Academic Awards, NVIDIA Academic Awards, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
+**Acknowledgments**: Our research projects are supported in part by NSF grants OAC-2503010 (CC\* Integration-Large), CNS-2443137 (CAREER), ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, IBM Academic Awards, NVIDIA Academic Awards, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
 
 <div class="row">
     <div class="col-sm">
