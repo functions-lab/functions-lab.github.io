@@ -9,6 +9,7 @@ nav_order: 4
 
 ##### **Honors &amp; Awards**:
 
+* Duke Engineering Nortel Networks Professorship (2025)
 * [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443137&HistoricalAwards=false) (2025)
 * NVIDIA Academic Award (2025)
 
