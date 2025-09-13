@@ -45,6 +45,7 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 
 ###### <a name="ongoing-projects"></a>**Ongoing Projects**:
 * [**ARO**] Machine Intelligence on Wireless Edge Networks (MIWEN) [[proof-of-concept paper](https://arxiv.org/abs/2504.17752)]
+* [**Enegis, LLC**] Newberry DAS Interrogator and PFI Nodal Seismic Sensor Deployment
 * [**NSF CAREER**] Toward Efficient and Scalable Mobile Fronthaul Empowered by Analog Radio-over-Fiber [[award info](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443137&HistoricalAwards=false)]
 * [**NSF CC\* Integration-Large**] Scaling Scientific Workloads on Distributed Commodity GPUs and Storage through Campus-level RDMA Networking [[award info](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2503010&HistoricalAwards=false)]
 * [**NEC Labs America**] Open Optical Transport System for Data Center Applications
