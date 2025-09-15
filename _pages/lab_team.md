@@ -61,6 +61,19 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/MingzheHan.jpg" title="Mingzhe Han" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Mingzhe Han</strong></h6>
+        <p>
+            Ph.D. student<br>
+            Email: mingzhe.han [at] duke.edu
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
         {% include figure.liquid loading="eager" path="assets/img/members/YimingLi.jpg" title="Yiming Li" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
@@ -85,6 +98,19 @@ nav_order: 1
         <p style="color: var(--global-theme-color); font-weight: bold;">
             IEEE/Optica OFC’23 Top-Scored Paper,
             ACM SIGMOBILE Student Community Grant Award
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/SamRivera.jpg" title="Sam Rivera" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Sam Rivera</strong></h6>
+        <p>
+            Ph.D. student<br>
+            Email: sam.rivera [at] duke.edu
         </p>
     </div>
 </div>
@@ -122,6 +148,32 @@ nav_order: 1
             ECOC’23 Highest Scoring and Best Paper,
             IEEE/Optica OFC’23 Top-Scored Paper,
             ACM SIGMOBILE Student Community Grant Award
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/YunchengYao.jpg" title="Yuncheng Yao" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Yuncheng (Peter) Yao (co-advised with Prof. Danyang Zhuo)</strong></h6>
+        <p>
+            Ph.D. student<br>
+            Email: peter.yao [at] duke.edu
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/JunyaoZheng.jpg" title="Junyao Zheng" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Junyao (Bill) Zheng</strong></h6>
+        <p>
+            Ph.D. student<br>
+            Email: junyao.zheng [at] duke.edu
         </p>
     </div>
 </div>
