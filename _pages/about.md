@@ -44,22 +44,23 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 ###### <a name="ongoing-projects"></a>**Ongoing Projects**:
+* [**NSF CIRC GRAND/ENS**] COSMOS3: Enhancing and Sustaining the COSMOS Platform [[award info](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2450567)]
 * [**ARO**] Machine Intelligence on Wireless Edge Networks (MIWEN) [[proof-of-concept paper](https://arxiv.org/abs/2504.17752)]
 * [**Enegis, LLC**] Newberry DAS Interrogator and PFI Nodal Seismic Sensor Deployment
 * [**NSF CAREER**] Toward Efficient and Scalable Mobile Fronthaul Empowered by Analog Radio-over-Fiber [[award info](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443137&HistoricalAwards=false)]
 * [**NSF CC\* Integration-Large**] Scaling Scientific Workloads on Distributed Commodity GPUs and Storage through Campus-level RDMA Networking [[award info](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2503010&HistoricalAwards=false)]
 * [**NEC Labs America**] Open Optical Transport System for Data Center Applications
-* [**NTT**] Machine Learning Technology for Resilient Optical Network
 * [**Duke DST Launch**] The Duke Quantum Network [[Duke news](https://today.duke.edu/2024/12/research-innovation-seed-grants-total-nearly-2-million)]
 * [**NSF NewSpectrum**] Enabling Dense and In-situ Spectrum Monitoring via Circuits-system Co-design
 * [**NSF EAGER**] An Integrated Fiber Sensing and Communication Living Lab in the Research Triangle
 * [**SRC/DARPA JUMP 2.0**] Center for Ubiquitous Connectivity (CUbiC) [[CUbiC website](https://cubic.engineering.columbia.edu/)] [[center info](https://www.src.org/program/jump2/cubic/)]
 * [**NSF SII-NRDZ**] Spectrum Sharing via Consumption Models and Telemetry in an Urban FCC Innovation Zone
 * [**NSF CISE**] Medium: Softwarizing Millimeter-wave Radio Access Networks at the Edge 
-* [**NSF SWIFT**] Spectrum Coexistence with Rapid Interferer Learning, Detection, and Mitigation
 * [**NSF NAI**] National AI Institute for Edge Computing Leveraging Next-generation Networks [[Athena website](https://athena.duke.edu/)]
 
 ###### **Past Projects**:
+* [**NTT**] Machine Learning Technology for Resilient Optical Network
+* [**NSF SWIFT**] Spectrum Coexistence with Rapid Interferer Learning, Detection, and Mitigation
 * [**Duke Engineering BtH Initiative**] Lighting a Dark Fiber Network for Hybrid Quantum-Classical Experimental Research [[Pratt news](https://pratt.duke.edu/news/quantum-fiber-network/)]
 * [**NSF PAWR**] Cloud Enhanced Open Software-defined Mobile Wireless Testbed for City-scale Deployment [[COSMOS website](https://cosmos-lab.org/)]
 * [**NSF EARS**] FlexICoN: Full-duplex Wireless: From Integrated Circuits to Networks (Columbia) [[FlexICoN website](https://flexicon.ee.columbia.edu/)]
@@ -68,7 +69,9 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 ###### **Recent Talks**:
-* [**June 2025**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', at Nokia Bell Labs and Samsung Research America.
+* [**Nov. 2025**] ``Scalable and Real-time Baseband Processing using Heterogeneous Compute Resources'', First OAI Foundation U.S. Hands-on Workshop.
+* [**Oct. 2025**] ``Scalable Wireless Digital Twins and Machine Learning for High-fidelity RF Signal Mapping'', NextG Alliance Technology Roadmap Working Group and Wireless Institute at the University of Notre Dame.
+* [**June 2025**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', Nokia Bell Labs and Samsung Research America.
 * [**Apr. 2025**] [``Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-existence, and Field Trials''](https://oqe.nonlocally.org/event/2025-04-23%2011:00:00/0/), MIT Optics and Quantum Electronics (OQE) Seminar.
 * [**Mar. 2025**] ``Scalable ML Models for Optical Transmission System Management'', IEEE/Optica OFC.
 * [**Mar. 2025**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', FCC Technological Advisory Council Working Group on AI/ML (TAC-AIWG).
@@ -98,7 +101,7 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 
 ---
 
-**Acknowledgments**: Our research projects are supported in part by grants from NSF (CAREER, CC\* Integration-Large, NewSpectrum, EAGER, SII-NRDZ, CISE Core, SWIFT, and Athena AI Institute for Edge Computing), ARO (W911NF2510241), SRC/DARPA JUMP 2.0 Center for Ubiquitous Connectivity (CUbiC), Duke Science &amp; Technology Initiative and Pratt School of Engineering, as well as grants and gifts from ACM SIGMOBILE, Google, IBM, NEC Labs America, NTT, and NVIDIA. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
+**Acknowledgments**: Our research projects are supported in part by grants from NSF (CAREER, CIRC GRAND/ENS, CC\* Integration-Large, NewSpectrum, EAGER, SII-NRDZ, CISE Core, SWIFT, and Athena AI Institute for Edge Computing), ARO (W911NF2510241), SRC/DARPA JUMP 2.0 Center for Ubiquitous Connectivity (CUbiC), Duke Science &amp; Technology Initiative and Pratt School of Engineering, as well as grants and gifts from ACM SIGMOBILE, Enegis, Google, IBM, NEC Labs America, NTT, and NVIDIA. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations.
 
 <!-- **Acknowledgments**: Our research projects are supported in part by NSF grants OAC-2503010 (CC\* Integration-Large), CNS-2443137 (CAREER), ECCS-2434131 (NewSpectrum), CNS-2330333 (EAGER), AST-2232458 (SII-NRDZ), CNS-2211944 (CISE Core), CNS-2128638 (SWIFT), and CNS-2112562 (NAI), the SRC/DARPA JUMP 2.0 program (CUbiC – Center for Ubiquitous Connectivity), an ARO a Duke Science &amp; Technology LAUNCH Grant, a Pratt Engineering Beyond the Horizon Initiative Grant, a Google Research Scholar Award, IBM Academic Awards, NVIDIA Academic Awards, NTT Research Grants, an ACM SIGMOBILE Student Community Grant, and NEC Labs America Research Gifts. The findings, positions, or opinions of our research projects do not necessarily represent the official policy of any of these organizations. -->
 

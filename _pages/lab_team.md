@@ -184,12 +184,38 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/LabMemberDefault.jpg" title="Siying Chen" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Siying Chen</strong></h6>
+        <p>
+            ECE M.S. student<br>
+            Email: siying.chen [at] duke.edu
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
+        {% include figure.liquid loading="eager" path="assets/img/members/LabMemberDefault.jpg" title="Devon Knox" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-10">
+        <h6><strong>Devon Knox"</strong></h6>
+        <p>
+            ECE undergraduate student<br>
+            Email: devon.knox [at] duke.edu
+        </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-2">
         {% include figure.liquid loading="eager" path="assets/img/members/LabMemberDefault.jpg" title="Kelvin Zhang" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
         <h6><strong>Kelvin Zhang</strong></h6>
         <p>
-            ECE Undergraduate Student<br>
+            ECE undergraduate student<br>
             Email: kelvin.zhang [at] duke.edu
         </p>
     </div>
@@ -202,7 +228,7 @@ nav_order: 1
     <div class="col-sm-10">
         <h6><strong>Scarlett Francini</strong></h6>
         <p>
-            ECE Undergraduate Student<br>
+            ECE undergraduate student<br>
             Email: scarlett.francini [at] duke.edu
         </p>
     </div>
@@ -215,7 +241,7 @@ nav_order: 1
     <div class="col-sm-10">
         <h6><strong>Yi-Chyun Wong</strong></h6>
         <p>
-            ECE Undergraduate Student<br>
+            ECE undergraduate student<br>
             Email: yichyun.wong [at] duke.edu
         </p>
     </div>
