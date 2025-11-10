@@ -6,6 +6,7 @@ description:
 nav: false
 nav_order: 91
 years:
+  - 2026
   - 2025
   - 2024
   - 2023
