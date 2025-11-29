@@ -9,7 +9,19 @@ nav_order: 1
 
 <div class="row">
     <div class="col-sm-6">
-        {% include figure.liquid loading="eager" path="assets/img/gallery/sp2025_group_davison.jpg" title="Srping 2025 Group Photo" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/gallery/fa2025_group_topgolf.jpg" title="Fall 2025 Group Photo" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <p class="caption">Group outing at Topgolf (Nov. 2025)</p>
+    </div>
+    <div class="col-sm-6">
+        {% include figure.liquid loading="eager" path="assets/img/gallery/fa2025_b6gs.jpg" title="Fall 2025 B6GS Panel" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <p class="caption">Panel on ``Deep dive: Value creation with AI" at the Brooklyn 6G Summit (Nov. 2025)</p>
+    </div>
+    <div class="col-sm-6">
+        {% include figure.liquid loading="eager" path="assets/img/gallery/cubic2025_review.jpg" title="CUbiC Annual Review 2025" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <p class="caption">Wei presents the ReACT testbed during the CUbiC Annual Review at Columbia University (June 2025)</p>
+    </div>
+    <div class="col-sm-6">
+        {% include figure.liquid loading="eager" path="assets/img/gallery/sp2025_group_davison.jpg" title="Fall 2025 Group Photo" class="img-fluid rounded z-depth-1" zoomable=true %}
         <p class="caption">Group photo in our Wilkinson lab (Feb. 2025)</p>
     </div>
     <div class="col-sm-6">

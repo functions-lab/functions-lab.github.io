@@ -44,7 +44,7 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 ###### <a name="ongoing-projects"></a>**Ongoing Projects**:
-* [**NSF CIRC GRAND/ENS**] COSMOS3: Enhancing and Sustaining the COSMOS Platform [[award info](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2450567)]
+* [**NSF CIRC GRAND/ENS**] COSMOS3: Enhancing and Sustaining the COSMOS Platform [[award info](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2450567)] [[Columbia news](https://www.engineering.columbia.edu/about/news/expanding-nsf-cosmos-testbed-next-generation-wireless-research)]
 * [**ARO**] Machine Intelligence on Wireless Edge Networks (MIWEN) [[proof-of-concept paper](https://arxiv.org/abs/2504.17752)]
 * [**Enegis, LLC**] Newberry DAS Interrogator and PFI Nodal Seismic Sensor Deployment
 * [**NSF CAREER**] Toward Efficient and Scalable Mobile Fronthaul Empowered by Analog Radio-over-Fiber [[award info](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443137&HistoricalAwards=false)]

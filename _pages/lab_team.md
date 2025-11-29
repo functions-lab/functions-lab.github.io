@@ -200,7 +200,7 @@ nav_order: 1
         {% include figure.liquid loading="eager" path="assets/img/members/LabMemberDefault.jpg" title="Devon Knox" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-10">
-        <h6><strong>Devon Knox"</strong></h6>
+        <h6><strong>Devon Knox</strong></h6>
         <p>
             ECE undergraduate student<br>
             Email: devon.knox [at] duke.edu
