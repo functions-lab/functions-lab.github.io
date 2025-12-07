@@ -81,19 +81,27 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 * More talks and videos see below...
 
 <div class="row">
-    <div class="col-sm-3">
+    <div class="col-sm-4">
+        {% include video.liquid path="https://www.youtube.com/embed/0I2bjML4inc?si=ceWcdhAozndMT1-L" class="img-fluid rounded z-depth-1" %}
+        <p class="caption">Talk at the first OAI foundation U.S. hands-on workshop</p>
+    </div>
+    <div class="col-sm-4">
+        {% include video.liquid path="https://www.youtube.com/embed/0LEXyjWXRJ8?si=CXhvls6XKke5kDzM" class="img-fluid rounded z-depth-1" %}
+        <p class="caption">Talk at the 6G-XCEL/ACCoRD joint workshop</p>
+    </div>
+    <div class="col-sm-4">
         {% include video.liquid path="https://www.youtube.com/embed/Btdl8_nNCH0" class="img-fluid rounded z-depth-1" %}
         <p class="caption">Talk at the ACM SIGMOBILE community workshop</p>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         {% include video.liquid path="https://www.youtube.com/embed/t2XxgExefns" class="img-fluid rounded z-depth-1" %}
         <p class="caption">Overview of the COSMOS testbed at ACM MobiCom'20</p>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         {% include video.liquid path="https://www.youtube.com/embed/SvS-nqTdLLg" class="img-fluid rounded z-depth-1" %}
         <p class="caption">My Ph.D. life at Columbia Enginering</p>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
         {% include video.liquid path="https://www.youtube.com/embed/MfWvQKvG2_Q" class="img-fluid rounded z-depth-1" %}
         <p class="caption">Interviewed by WebsEdge Science</p>
     </div>
