@@ -3,6 +3,7 @@
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
+
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
@@ -25,6 +26,57 @@
           <abbr class="badge rounded w-100">{{ entry.abbr }}</abbr>
         {% endif %}
       {% endif %}
+
+      <div style="display: flex; justify-content: space-between; width: 100%;">
+
+      {% if entry.topic_primary %}
+        {%- if site.data.venues[entry.topic_primary] -%}
+          {% assign venue_style = null %}
+          {% if site.data.venues[entry.topic_primary].color != blank %}
+            {% assign venue_style = site.data.venues[entry.topic_primary].color | prepend: 'style="background-color:' | append: '"' %}
+          {%- endif -%}
+          <span
+            class="badge rounded"
+            {% if venue_style %}
+              {{ venue_style }}
+            {% endif -%}
+          >
+            {% if site.data.venues[entry.topic_primary].url %}
+              <a href="{{ site.data.venues[entry.topic_primary].url }}">{{ entry.topic_primary }}</a>
+            {% else %}
+              <div style="color:white;">{{- entry.topic_primary -}}</div>
+            {% endif %}
+          </span>
+        {% else %}
+          <topic_primary class="badge rounded w-100">{{ entry.topic_primary }}</abbr>
+        {% endif %}
+      {% endif %}
+
+      {% if entry.topic_secondary %}
+        {%- if site.data.venues[entry.topic_secondary] -%}
+          {% assign venue_style = null %}
+          {% if site.data.venues[entry.topic_secondary].color != blank %}
+            {% assign venue_style = site.data.venues[entry.topic_secondary].color | prepend: 'style="background-color:' | append: '"' %}
+          {%- endif -%}
+          <span
+            class="badge rounded"
+            {% if venue_style %}
+              {{ venue_style }}
+            {% endif -%}
+          >
+            {% if site.data.venues[entry.topic_secondary].url %}
+              <a href="{{ site.data.venues[entry.topic_secondary].url }}">{{ entry.topic_secondary }}</a>
+            {% else %}
+              <div style="color:white;">{{- entry.topic_secondary -}}</div>
+            {% endif %}
+          </span>
+        {% else %}
+          <topic_primary class="badge rounded w-100">{{ entry.topic_secondary }}</abbr>
+        {% endif %}
+      {% endif %}
+
+      </div>
+
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">

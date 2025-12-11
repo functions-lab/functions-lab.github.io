@@ -11,14 +11,14 @@
 "arXiv":
   color: "#b509ac"
 
-"OFC":
+"Wireless":
+  color: "#0072ce"
+
+"Optics":
   color: "#f29105"
 
-"ECOC":
-  color: "#f29105"
+"AI/ML":
+  color: "#2e7d32"
 
-"JOCN":
-  color: "#f29105"
-
-"JLT":
-  color: "#f29105"
+"Systems":
+  color: "#455a64"
