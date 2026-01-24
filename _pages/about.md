@@ -69,6 +69,7 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 ###### **Recent Talks**:
+* [**Dec. 2025**] ``IoT-MCP: Design and Control IoT Systems via LLMs'', Education Track at NeurIPS.
 * [**Nov. 2025**] ``Scalable and Real-time Baseband Processing using Heterogeneous Compute Resources'', First OAI Foundation U.S. Hands-on Workshop.
 * [**Oct. 2025**] ``Scalable Wireless Digital Twins and Machine Learning for High-fidelity RF Signal Mapping'', NextG Alliance Technology Roadmap Working Group and Wireless Institute at the University of Notre Dame.
 * [**June 2025**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', Nokia Bell Labs and Samsung Research America.
@@ -81,10 +82,6 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 * More talks and videos see below...
 
 <div class="row">
-    <div class="col-sm-4">
-        {% include video.liquid path="https://slideslive.com/embed/presentation/39055010" class="img-fluid rounded z-depth-1" %}
-        <p class="caption">Talk at the NeurIPS 2025 Education  OAI foundation U.S. hands-on workshop</p>
-    </div>
     <div class="col-sm-4">
         {% include video.liquid path="https://www.youtube.com/embed/0I2bjML4inc?si=ceWcdhAozndMT1-L" class="img-fluid rounded z-depth-1" %}
         <p class="caption">Talk at the first OAI foundation U.S. hands-on workshop</p>
