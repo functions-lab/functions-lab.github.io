@@ -69,16 +69,16 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ---
 
 ###### **Recent Talks**:
-* [**Dec. 2025**] ``IoT-MCP: Design and Control IoT Systems via LLMs'', Education Track at NeurIPS.
+* [**Dec. 2025**] ``[IoT-MCP: Design and Control IoT Systems via LLMs](https://neurips.cc/virtual/2025/loc/san-diego/131570)'', Education Track at NeurIPS.
 * [**Nov. 2025**] ``Scalable and Real-time Baseband Processing using Heterogeneous Compute Resources'', First OAI Foundation U.S. Hands-on Workshop.
 * [**Oct. 2025**] ``Scalable Wireless Digital Twins and Machine Learning for High-fidelity RF Signal Mapping'', NextG Alliance Technology Roadmap Working Group and Wireless Institute at the University of Notre Dame.
 * [**June 2025**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', Nokia Bell Labs and Samsung Research America.
-* [**Apr. 2025**] [``Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-existence, and Field Trials''](https://oqe.nonlocally.org/event/2025-04-23%2011:00:00/0/), MIT Optics and Quantum Electronics (OQE) Seminar.
+* [**Apr. 2025**] ``[Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-existence, and Field Trials](https://oqe.nonlocally.org/event/2025-04-23%2011:00:00/0/)'', MIT Optics and Quantum Electronics (OQE) Seminar.
 * [**Mar. 2025**] ``Scalable ML Models for Optical Transmission System Management'', IEEE/Optica OFC.
 * [**Mar. 2025**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', FCC Technological Advisory Council Working Group on AI/ML.
 * [**Sept. 2024**] ``Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-existence, and Field Trials'', 6G-XCEL/ACCoRD Joint Workshop.
 * [**Sept. 2024**] ``Scalable Wireless Digital Twins for High-fidelity RF Signal Mapping'', SpectrumX AI/ML Research Community Seminar.
-* [**Aug. 2024**] [``Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-Existence, and Field Trials''](https://www.optica.org/events/webinar/2024/08_august/toward_intelligent_and_efficient_optical_networks_performance_modeling_co-existence_and_field_tri/), Optica Technical Group Webinar (Optical Communications Technical Group).
+* [**Aug. 2024**] ``[Toward Intelligent and Efficient Optical Networks: Performance Modeling, Co-Existence, and Field Trials](https://www.optica.org/events/webinar/2024/08_august/toward_intelligent_and_efficient_optical_networks_performance_modeling_co-existence_and_field_tri/)'', Optica Technical Group Webinar (Optical Communications Technical Group).
 * More talks and videos see below...
 
 <div class="row">
