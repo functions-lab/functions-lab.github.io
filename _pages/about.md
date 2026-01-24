@@ -46,11 +46,8 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 ###### <a name="ongoing-projects"></a>**Ongoing Projects**:
 * [**NSF CIRC GRAND/ENS**] COSMOS3: Enhancing and Sustaining the COSMOS Platform [[award info](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2450567)] [[Columbia news](https://www.engineering.columbia.edu/about/news/expanding-nsf-cosmos-testbed-next-generation-wireless-research)]
 * [**ARO**] Machine Intelligence on Wireless Edge Networks (MIWEN) [[proof-of-concept paper](https://arxiv.org/abs/2504.17752)]
-* [**Enegis, LLC**] Newberry DAS Interrogator and PFI Nodal Seismic Sensor Deployment
 * [**NSF CAREER**] Toward Efficient and Scalable Mobile Fronthaul Empowered by Analog Radio-over-Fiber [[award info](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443137&HistoricalAwards=false)]
 * [**NSF CC\* Integration-Large**] Scaling Scientific Workloads on Distributed Commodity GPUs and Storage through Campus-level RDMA Networking [[award info](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2503010&HistoricalAwards=false)]
-* [**NEC Labs America**] Open Optical Transport System for Data Center Applications
-* [**Duke DST Launch**] The Duke Quantum Network [[Duke news](https://today.duke.edu/2024/12/research-innovation-seed-grants-total-nearly-2-million)]
 * [**NSF NewSpectrum**] Enabling Dense and In-situ Spectrum Monitoring via Circuits-system Co-design
 * [**NSF EAGER**] An Integrated Fiber Sensing and Communication Living Lab in the Research Triangle
 * [**SRC/DARPA JUMP 2.0**] Center for Ubiquitous Connectivity (CUbiC) [[CUbiC website](https://cubic.engineering.columbia.edu/)] [[center info](https://www.src.org/program/jump2/cubic/)]
@@ -59,6 +56,9 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 * [**NSF NAI**] National AI Institute for Edge Computing Leveraging Next-generation Networks [[Athena website](https://athena.duke.edu/)]
 
 ###### **Past Projects**:
+* [**Enegis, LLC**] Newberry DAS Interrogator and PFI Nodal Seismic Sensor Deployment
+* [**NEC Labs America**] Open Optical Transport System for Data Center Applications
+* [**Duke DST Launch**] The Duke Quantum Network [[Duke news](https://today.duke.edu/2024/12/research-innovation-seed-grants-total-nearly-2-million)]
 * [**NTT**] Machine Learning Technology for Resilient Optical Network
 * [**NSF SWIFT**] Spectrum Coexistence with Rapid Interferer Learning, Detection, and Mitigation
 * [**Duke Engineering BtH Initiative**] Lighting a Dark Fiber Network for Hybrid Quantum-Classical Experimental Research [[Pratt news](https://pratt.duke.edu/news/quantum-fiber-network/)]
@@ -81,6 +81,10 @@ Before joining Duke in Fall 2021, I was a postdoc in the Department of Electrica
 * More talks and videos see below...
 
 <div class="row">
+    <div class="col-sm-4">
+        {% include video.liquid path="https://slideslive.com/embed/presentation/39055010" class="img-fluid rounded z-depth-1" %}
+        <p class="caption">Talk at the NeurIPS 2025 Education  OAI foundation U.S. hands-on workshop</p>
+    </div>
     <div class="col-sm-4">
         {% include video.liquid path="https://www.youtube.com/embed/0I2bjML4inc?si=ceWcdhAozndMT1-L" class="img-fluid rounded z-depth-1" %}
         <p class="caption">Talk at the first OAI foundation U.S. hands-on workshop</p>
