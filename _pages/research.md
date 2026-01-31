@@ -94,7 +94,8 @@ nav_order: 1
     </div>
     <div class="col-sm-8">
         <p>
-            Coming soon...
+            Modern edge devices rely on machine learning (ML) to enable a wide range of intelligent applications. However, deploying ML models directly on the often resource-constrained edge devices demands substantial memory footprints and computational power for real-time inference using traditional digital computing architectures. We investigate the use of novel waveform design, common electronics, and wireless broadcast to realize ultra low-power ML inference directly at the RF/analog signal level. A proof-of-concept system presented in our
+            <a href="https://www.science.org/doi/full/10.1126/sciadv.adz0817">Science Advances paper</a> demonstrated that a single passive RF mixer can perform large-scale fully connected layers that are essential for many ML models.
         </p>
     </div>
 </div>
