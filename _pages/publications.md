@@ -5,6 +5,7 @@ title: Publications
 description:
 nav: false
 nav_order: 2
+bibliography: papers_tingjunchen.bib
 ---
 
 <!-- _pages/publications.md -->
